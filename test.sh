@@ -2,5 +2,6 @@
 echo "Enter the number"
 read input
 reverse=$(echo " $input" | rev )
-echo "reverse : $reverse"
+echo "reverse : $revers"
 
+This is main branch
